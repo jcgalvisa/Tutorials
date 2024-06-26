@@ -1,0 +1,3 @@
+Merge "Bola.step";
+//+
+Show "*";
